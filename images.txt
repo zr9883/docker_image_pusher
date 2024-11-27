@@ -1,1 +1,1 @@
-minio/minio
+pgvector/pgvector:pg15
