@@ -1,1 +1,2 @@
 pgvector/pgvector:pg15
+emqx/emqx:5.8.3
