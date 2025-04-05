@@ -1,8 +1,1 @@
-pgvector/pgvector:pg15
-emqx/emqx:5.8.3
-nginx:1.27.4-perl
-bellsoft/liberica-openjdk-debian:17.0.11-cds
-ollama/ollama
-ghcr.io/open-webui/open-webui:main
-mysql:8.0.41
 redis:7.4
